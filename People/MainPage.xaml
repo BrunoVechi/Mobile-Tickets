@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:People"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             x:Class="People.MainPage"
+             Title="Cadastro">
+
+
+    <StackLayout BackgroundColor="LightGray">
+        <Label Text="Easy Tickets" HorizontalTextAlignment="Center" FontSize="Title" TextColor="Black"  FontAttributes="Bold"/>
+        <Entry x:Name="newPerson" Placeholder="Nome" HorizontalTextAlignment="Center" ClearButtonVisibility="WhileEditing"/>
+        <Entry x:Name="Cpf" Placeholder="Cpf" HorizontalTextAlignment="Center" ClearButtonVisibility="WhileEditing"/>
+        <Entry x:Name="validade" Placeholder="Ativado=1 / Desativado=0" HorizontalTextAlignment="Center" ClearButtonVisibility="WhileEditing" Keyboard="Numeric"/>
+
+        <Label x:Name="statusMessage" HorizontalOptions="Center"></Label>
+        <StackLayout           
+             Orientation="Horizontal" HorizontalOptions="Center" Spacing="10" Padding="0" Margin="0">
+            <Button Text="Add" BorderWidth="2" BorderColor="black" BackgroundColor="SlateGray" CornerRadius="10" FontAttributes="Bold" Clicked="OnNewButtonClicked"/>
+            <Button Text="Del" BorderWidth="2" BorderColor="black" BackgroundColor="SlateGray" CornerRadius="10" FontAttributes="Bold" Clicked="OnDelButtonClicked"/>
+            <Button Text="Update" BorderWidth="2" BorderColor="black" BackgroundColor="SlateGray" CornerRadius="10" FontAttributes="Bold" Clicked="OnUpButtonClicked"/>                
+            </StackLayout>
+       
+        <ListView x:Name="peopleList">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Height="30">
+                            <StackLayout >
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                                    <Label Text="{Binding Name}" HorizontalOptions="Center"/>
+                                    <Label Text="{Binding Cpf}" HorizontalOptions="Center"/>
+                                </StackLayout>
+                            <Label Text="{Binding Validade}" HorizontalOptions="Center"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+        </ListView>                 
+             
+    </StackLayout>  
+        
+</ContentPage>
