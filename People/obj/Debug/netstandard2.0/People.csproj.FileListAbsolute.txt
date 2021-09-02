@@ -30,3 +30,18 @@ C:\Users\bruno\Desktop\QR\People\obj\Debug\netstandard2.0\People.csproj.CopyComp
 C:\Users\bruno\Desktop\QR\People\obj\Debug\netstandard2.0\People.dll
 C:\Users\bruno\Desktop\QR\People\obj\Debug\netstandard2.0\People.pdb
 C:\Users\bruno\Desktop\QR\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\bin\Debug\netstandard2.0\People.deps.json
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\bin\Debug\netstandard2.0\People.dll
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\bin\Debug\netstandard2.0\People.pdb
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\QRViewPage.xaml.g.cs
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\ScanQR.xaml.g.cs
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.dll
+C:\Users\bruno\Documents\1 - Repository\QR Mobile\People\obj\Debug\netstandard2.0\People.pdb

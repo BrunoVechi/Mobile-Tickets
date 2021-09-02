@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YSOrasRcQmkeA5j99grMo+ZsgAS6rIWgJ3uomWATkMEZD7aBBwLUiDoVtnx9gKwy9RWIpqIeSgUpTbgLOAyy2Q==",
+  "dgSpecHash": "TnigYBbq/GIBEsFN9vIGpT3XxlRBz3tAqXCBWzexM+b6/ZEuGRe2UtbARxh4P9nO9lEcNZCvLn6XZZbdS5nKuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

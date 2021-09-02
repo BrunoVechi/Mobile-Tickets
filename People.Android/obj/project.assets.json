@@ -4208,11 +4208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\QR\\People.Android\\People.Android.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.Android\\People.Android.csproj",
       "projectName": "People.Android",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\QR\\People.Android\\People.Android.csproj",
+      "projectPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.Android\\People.Android.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\QR\\People.Android\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4233,8 +4233,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj"
+            "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj"
             }
           }
         }

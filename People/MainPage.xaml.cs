@@ -1,4 +1,4 @@
-using Android.App;
+//using Android.App;
 using Rg.Plugins.Popup.Services;
 using System;
 using System.ComponentModel;

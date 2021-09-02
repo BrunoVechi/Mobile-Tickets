@@ -972,11 +972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj",
       "projectName": "People",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj",
+      "projectPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\QR\\People\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1046,7 +1046,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

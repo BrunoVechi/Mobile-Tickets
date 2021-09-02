@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n6OtR88tmsfEDWZYMH/YNknXMPNXCdEWr4yhM14vlM4lFt8U3SeAQTuyTWaKHKcRJTNZWst6psKwO+E/Pdc6DQ==",
+  "dgSpecHash": "mnY0EZh9TVw7mH0TSTU8HggGaLuu0nw5T7mANBqzgys4mPRrQiLJZhIXHa8S1Umm83FsdIBTFFfib2nagwY8XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Desktop\\QR\\People.Android\\People.Android.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.Android\\People.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\rg.plugins.popup\\2.0.0.11\\rg.plugins.popup.2.0.0.11.nupkg.sha512",

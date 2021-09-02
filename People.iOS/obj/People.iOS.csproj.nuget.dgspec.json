@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\QR\\People.iOS\\People.iOS.csproj": {}
+    "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.iOS\\People.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\QR\\People.iOS\\People.iOS.csproj": {
+    "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.iOS\\People.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\QR\\People.iOS\\People.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.iOS\\People.iOS.csproj",
         "projectName": "People.iOS",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\QR\\People.iOS\\People.iOS.csproj",
+        "projectPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.iOS\\People.iOS.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\QR\\People.iOS\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj": {
-                "projectPath": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj"
+              "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj": {
+                "projectPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj": {
+    "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj",
         "projectName": "People",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\QR\\People\\People.csproj",
+        "projectPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\People.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\QR\\People\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Documents\\1 - Repository\\QR Mobile\\People\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -162,7 +162,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

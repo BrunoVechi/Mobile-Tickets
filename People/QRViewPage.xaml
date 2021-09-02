@@ -7,7 +7,7 @@
    
 
 
-    <StackLayout Background = "fundo.png">
+    <StackLayout BackgroundColor="White">
         
         <StackLayout Orientation="Vertical">
             <Label HorizontalOptions="CenterAndExpand" x:Name="NOME" FontSize="Title" FontAttributes="Bold" TextColor="Black"></Label>
